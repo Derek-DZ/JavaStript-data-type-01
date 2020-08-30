@@ -152,10 +152,10 @@ Boolean(1);
 ```javascript
 true.toString;
 (1).toString;
-1..toString;
-1 .toString;
+(1).toString;
+(1).toString;
 ```
 
 1.toString 这个会报错，因为 JS 默认 1.后面要加数字，JS 的 bug
 
-4. 看 JS 的奇葩 bug 及解决方法：搜 JS 秘密花园
+1. 看 JS 的奇葩 bug 及解决方法：[JavaScript 秘密花园](https://bonsaiden.github.io/JavaScript-Garden/zh/)
